@@ -14,7 +14,7 @@ JVM在执行Java程序的过程中会把它所管理的内存划分为若干个�
 4. 虚拟机栈
 5. 本地方法栈
 
-![ava](img/1-1.png)
+![ava](https://github.com/jazzisfuture/JVMLearnNote/blob/master/img/1-1.png)
 
 ------
 
